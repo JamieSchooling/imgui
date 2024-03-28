@@ -10,7 +10,7 @@ project "ImGui"
         "imconfig.h",
         "imgui.h",
         "imgui.cpp",
-        "imagui_draw.cpp",
+        "imgui_draw.cpp",
         "imgui_internal.h",
         "imgui_widgets.cpp",
         "imstb_rectpack.h",
